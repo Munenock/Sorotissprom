@@ -33,7 +33,7 @@ const royalPics = [
   ]
 ]
 //fetch pictures 
-fetch('pictures.json')
+fetch('pics.json')
   .then(res => {
     return res.json()
   })
