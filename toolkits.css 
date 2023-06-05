@@ -1,0 +1,11 @@
+.playMusicToolKit{
+  position: absolute;
+  color: var(--optionDark);
+  bottom: 100%;
+  width: 150px;
+background: white;
+border-radius: 10px;
+  font-size: 15px;
+  padding: 5px;
+  font-weight: bold;
+}
