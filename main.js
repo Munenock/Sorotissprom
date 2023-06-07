@@ -40,7 +40,7 @@ const royalPics = [
   ,['https://i.postimg.cc/jSb65w08/IMG-20230602-WA0058.jpg'],['https://i.postimg.cc/T3fmxzgF/IMG-20230602-WA0060.jpg'],['https://i.postimg.cc/8z4vzZb5/IMG-20230602-WA0063.jpg'],['']
 ]
 //fetch pictures 
-fetch('pictures.json')
+fetch('pics.json')
   .then(res => {
     return res.json()
   })
