@@ -274,7 +274,7 @@ fetch('pics.json')
 
 
           //enlarge partyAnimalsOtherImage
-          const partyAnimalsOtherPiimageIndex = document.querySelectorAll('.partyAnimalsOtherPic')
+          const partyAnimalsOtherPic = document.querySelectorAll('.partyAnimalsOtherPic')
 
           partyAnimalsOtherPic.forEach((e) => {
 
