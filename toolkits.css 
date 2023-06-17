@@ -3,9 +3,11 @@
   color: var(--optionDark);
   bottom: 100%;
   width: 150px;
-background: white;
+background: var(--partyAnimalsPicShadow);
+;
 border-radius: 10px;
   font-size: 15px;
   padding: 5px;
   font-weight: bold;
+  left:0
 }
