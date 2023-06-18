@@ -454,7 +454,12 @@ fetch('pics.json')
 
 
     logo.style.backgroundImage = 'url(https://i.postimg.cc/nr89JfdR/be8e0937-d2f0-451c-9467-c9246936b4c7.png)'
+setTimeout(()=>{
+const playToolKit=document.querySelector ('.playMusicToolKit');
 
+playToolKit.style.display='none'
+
+},5000)
     playMusic.addEventListener('click', (e) => {
 
       trackBox.classList.toggle('showMusic')
