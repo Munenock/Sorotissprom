@@ -55,7 +55,7 @@ fetch('pics.json')
     })
 
     const tracks = [
-"Pop-Smoke-Get-Back-(HipHopKit.com).mp3", "Pop Smoke ft. Quavo - Aim For The Moon (Official MusiimageIndexVideo) ft. Quavo (320 kbps).mp3", "Lil Baby x Gunna - Drip Too Hard (Official Audio).mp3", "Ellie_Goulding_Burn.mp3", "Faded-DRILL-REMIX-Faded-DRILL-REMIX.mp3"
+"Pop-Smoke-Get-Back-(HipHopKit.com).mp3", "AJ Tracey - Dinner Guest (ft. MoStack) (320 kbps).mp3", "Alan Walker - Away (New Song 2020) (320 kbps).mp3", "Lil Baby-&-Gunna-Drip-Too-Hard(Official Audio).mp3"
 ]
     const inp = document.querySelector('input')
     var fhtml = `<i class='material-icons'>menu</i>
