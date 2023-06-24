@@ -39,7 +39,7 @@ const royalPics = [
   ], [
     "https://i.postimg.cc/nrmsFzNR/IMG-20230602-WA0066.jpg"
   ]
-  , ['https://i.postimg.cc/jSb65w08/IMG-20230602-WA0058.jpg'], ['https://i.postimg.cc/T3fmxzgF/IMG-20230602-WA0060.jpg'], ['https://i.postimg.cc/8z4vzZb5/IMG-20230602-WA0063.jpg'], ['']
+  , ['https://i.postimg.cc/jSb65w08/IMG-20230602-WA0058.jpg'], ['https://i.postimg.cc/T3fmxzgF/IMG-20230602-WA0060.jpg'], ['https://i.postimg.cc/28fX2qJS/Screenshot-20230624-074212-Facebook.png'], ['']
 ]
 //fetch pictures 
 fetch('pics.json')
